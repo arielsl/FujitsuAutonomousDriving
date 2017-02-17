@@ -1,2 +1,2 @@
 # FujitsuAutonomousDriving
-Autonomous driving algorithm for a toy car, using no scenarios with white lane markings.
+Autonomous driving algorithm for a toy car, using scenarios with no white lane markings.
