@@ -23,7 +23,7 @@ To run the simulator two main commands are needed: `./build.sh` and `./autodrive
 5. To edit the scenarios, [ScUI](http://opendavinci.cse.chalmers.se/www/products/ScUI/index.html) must be opened in the environment. Needs the [Docker Engine](https://docs.docker.com/engine/installation/linux/ubuntu/) to be installed in the machine.
 
 ####Pre made VirtualBoxes
-- A virtual [image of Ubuntu 12.04]() with the simulator already running
+- A virtual [image of Ubuntu 12.04](https://drive.google.com/open?id=0B-JEwl71cvkaTFA3WU0xWmE0Z1E) with the simulator already running
 - A virtual [image of Ubuntu 14.04]() with the simulator and ScUI running
 
 
