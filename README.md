@@ -21,5 +21,5 @@ One of the critical challenges that needs to be addressed is how to enable self-
 - This [README file](README.md) that includes a description of the project
 - A [Resources file](Resources.md) that includes references to assets used in the project
 - A [Revisions file](Revisions.md) that decribes the changes made to the repository
-- A [include directory](/include) that contains the sample algorithm included in the OpenDaVinci simulator
+- An [include directory](/include) that contains the sample algorithm included in the OpenDaVinci simulator
 - An [autodrive directory](/autodrive) that contains the code worked on in this project
