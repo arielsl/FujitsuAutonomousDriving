@@ -15,6 +15,7 @@ In order for the simulator to run, a few things must be prepared before:
 - Knowledge of the [Linux enviroment](http://ryanstutorials.net/linuxtutorial/)
 
 To run the simulator two main commands are needed: `./build.sh` and `./autodrive.sh` inside the `AutodriveSim` directory:
+
 1. Everytime a change is made to the simulator or ran for the first time, it needs to be build again.
 2. The autodrive file runs the simulator and opens it in another window.
 3. To edit the driving logic, the files on the `include` directory must be changed.
