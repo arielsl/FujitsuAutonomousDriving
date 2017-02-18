@@ -24,7 +24,7 @@ To run the simulator two main commands are needed: `./build.sh` and `./autodrive
 
 ####Pre made VirtualBoxes
 - A virtual [image of Ubuntu 12.04](https://drive.google.com/open?id=0B-JEwl71cvkaTFA3WU0xWmE0Z1E) with the simulator already running
-- A virtual [image of Ubuntu 14.04]() with the simulator and ScUI running
+- A virtual [image of Ubuntu 14.04](https://drive.google.com/file/d/0B3_Kv5FfJpVbSlpHcEgwaDgwc0U/view?usp=sharing) with the simulator and ScUI running
 
 
 ##Credits
