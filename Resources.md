@@ -28,7 +28,7 @@ To run the simulator two main commands are needed: `./build.sh` and `./autodrive
 
 
 ##Credits
-- Basis of the project goes to Dimitris Patris' [Build Your Own Android-Powered Self Driving R/C Car](Build Your Own Android-Powered Self Driving R/C Car)
+- The basis of the project goes to Dimitris Patris' [Build Your Own Android-Powered Self Driving R/C Car](Build Your Own Android-Powered Self Driving R/C Car)
 - The instructions for installing OpenDaVinci provided by [davjs](https://github.com/davjs/)
 - Android Carduino by [Petroula](https://github.com/Petroula/)
 - [OpenDaVinci website](http://opendavinci.cse.chalmers.se/www/)
