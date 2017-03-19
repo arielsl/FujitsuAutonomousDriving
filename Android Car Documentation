@@ -1,0 +1,46 @@
+Digital (PWM)
+Pin 2 - Speed Encoder - yellow wire
+Pin 4 - Bluetooth state yellow wire
+Pin 8 - Servo - white wire
+Pin 9 - ESC - white wire
+
+Communication
+Pin 16 - TX2 - blue wire connects to Bluetooth RX
+Pin 17 - RX2 - red wire  connects to Bluetooth TX
+Pin 19 - RX1 - yellow wire to Speed Encoder OutA (???)
+Pin 20 - SDA - blue wire to Gyroscope SDA
+Pin 21 - SCL - green wire to Gyroscope SCL
+
+Digital
+Pin 23 - yellow wire going to Rear-left Ultrasonic Echo
+Pin 25 - green wire going to Rear-left Ultrasonic Trig
+
+Pin 27 - yellow wire going to Front-right Ultrasonic Echo
+Pin 29 - green wire going to Front-right Ultrasonic Trig
+
+Pin 31 - green wire going to Front Ultrasonic Trig
+Pin 33 - yellow wire going to Front Ultrasonic Echo
+
+Analog
+Pin A8 -  grey wire going to front-left infrared line follower SCL
+Pin A9 - white wire going to front-left infrared line follower SDA
+
+Pin A10 - brown wire going to front-right infrared line follower SCL
+Pin A11 - black wire going to front-right infrared line follower SDA
+
+Merging A8 and A9 into A8 with OR Gate
+Merging A10 and A11 into A9 with OR Gate
+
+Pin A9 - Left infrared array 
+Pin A8 0 Right infrared array
+
+
+
+Pin A0 - green wire going to side-front infrared distance sensor
+Pin A1 - blue wire going to side-rear infrared distance sensor
+Pin A2 - blue wire going to rear infrared distance sensor
+
+
+STRAIGHT is 90
+MAX RIGHT 60
+MAX LEFT is 120
